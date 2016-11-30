@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>My Profile</title>
+</head>
+<body vlink="Pink" bgcolor="6D0000">
+<center>
+<font color="White" size="4">
+<hr>
+<a href="My Profile.html" media="print and (resolution:300dpi)">My Profile</a> |
+<a href="My Family.html">MY FAMILY</a> | <a href="My Friend.html">MY FRIENDS</a> |
+<a href="My IDoL.html">MY IDOL</a>
+
+<hr>
+<embed src="zvideo.mp4" height="200"/>
+<img src="z1.jpg" width="250px" height=200>
+<embed src="zvideo1.mp4" height="200"/>
+<br>
+<font face="Lucida Handwriting" color="white" size="10">
+<br>
+<marquee behavior = "alternate" scroll amount="100"> Prince JhaY-Em BaLiGuaT </marquee> </br>
+<font face="aricvalus" size="6"
+status : In A Relationship<br>
+Address : blk 6,lot 10, Villa Maria Nagpayong Pinagbuhatan Pasig City<br>
+Hobbies : Playing SF and Other Computer Games<br>
+Motto : "What You Sow Is What You Reap"<br>
+Hugot : "We Should Love, Not Fall In Love Because Everything That Falls Get Broken"<br>
+<br>
+<form>
+<input type="Button" value="IF YOU WANT TO SEE MY SEXIEST PROF IN COMPUTER PROGRAMMING IV JUST CLICK ME" onclick="window.location.href='sol.html'" /></form>
+
+</font>
+</html>
+</body>
